@@ -158,6 +158,10 @@
             <id>enforce-java</id>
             <goals>
               <goal>enforce</goal>
+			  when developer will push any new commits means jenkins will build automatically, that's is called as a ci 
+cd is continue deployement , it will automat the process without manual intervision 
+cd is continue delivery , it will automate the process with the help of manual.			  
+		
             </goals>
             <configuration>
               <rules>
