@@ -387,6 +387,7 @@
       <build>
         <pluginManagement>
           <plugins>
+          every tool we have to install the plugins , without plugins we can't able to see the user interface in post build action then only jenkins will be automated the process. 
             <!-- This plugin's configuration is used to store Eclipse m2e settings
               only. It has no influence on the Maven build itself. -->
             <plugin>
